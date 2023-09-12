@@ -1,0 +1,14 @@
+C:\Users\31655\Desktop\new_project\bin\Debug\net7.0\new_project.exe
+C:\Users\31655\Desktop\new_project\bin\Debug\net7.0\new_project.deps.json
+C:\Users\31655\Desktop\new_project\bin\Debug\net7.0\new_project.runtimeconfig.json
+C:\Users\31655\Desktop\new_project\bin\Debug\net7.0\new_project.dll
+C:\Users\31655\Desktop\new_project\bin\Debug\net7.0\new_project.pdb
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.AssemblyInfoInputs.cache
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.AssemblyInfo.cs
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.csproj.CoreCompileInputs.cache
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.dll
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\refint\new_project.dll
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.pdb
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\new_project.genruntimeconfig.cache
+C:\Users\31655\Desktop\new_project\obj\Debug\net7.0\ref\new_project.dll
